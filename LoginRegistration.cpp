@@ -82,6 +82,7 @@ int main(){
             registration();
             init = false;
         }
+        else if(x == 3){}
     }
 
     return 0;
